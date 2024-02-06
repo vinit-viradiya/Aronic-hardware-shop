@@ -1,1 +1,1 @@
-# Aronic---hardware-shop
+# Aronic - A Hardware Shop
