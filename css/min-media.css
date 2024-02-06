@@ -1,0 +1,459 @@
+@media (max-width:575px){
+    .container{
+        width:100%;
+    }
+    .w-xs-1{
+        width: 8.33%;
+    }
+    .w-xs-2{
+        width: 16.66%;
+    }
+    .w-xs-3{
+        width: 25%;
+    }
+    .w-xs-4{
+        width: 33.33%;
+    }
+    .w-xs-5{
+        width: 41.66%;
+    }
+    .w-xs-6{
+        width: 50%;
+    }
+    .w-xs-7{
+        width: 58.33%;
+    }
+    .w-xs-8{
+        width: 66.66%;
+    }
+    .w-xs-9{
+        width: 75%;
+    }
+    .w-xs-10{
+        width: 83.33%;
+    }
+    .w-xs-11{
+        width: 91.66%;
+    }
+    .w-xs-12{
+        width: 100%;
+    }
+    .py-80{
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+    .py-100{
+        padding-top: 100px;
+        padding-bottom: 100px;
+    }
+    .py-120{
+        padding-top: 120px;
+        padding-bottom: 120px;
+    }
+    .d-none{
+        display: none;
+    }
+    .d-block{
+        display: block;
+    }
+    .row{
+        padding: 0px 10px;
+    }
+    .justify-content-xs-center{
+        justify-content: center;
+    }
+    .banner .banner-content h1{
+        font-size: 30px;
+    }
+    .banner .banner-content h2{
+        font-size: 20px;
+    }
+    .f-offer{
+        margin-bottom: 50px;
+    }
+    .products .row{
+        padding: 0px 30px;
+    }
+    .clients .client img{
+        width: 25%;
+    }
+    .updates .content-input .btn{
+        margin-top: 10px;
+    }
+    .updates .content-input .input-feild{
+        margin-right: 0px;
+    }
+    .contect-content{
+        padding-bottom: 50px;
+        padding-top: 50px;
+    }
+    .asset-tools .tool{
+        height: 300px;
+    }
+}
+@media (min-width:576px){
+    .container{
+        width:540px;
+    }
+    .w-s-1{
+        width: 8.33%;
+    }
+    .w-s-2{
+        width: 16.66%;
+    }
+    .w-s-3{
+        width: 25%;
+    }
+    .w-s-4{
+        width: 33.33%;
+    }
+    .w-s-5{
+        width: 41.66%;
+    }
+    .w-s-6{
+        width: 50%;
+    }
+    .w-s-7{
+        width: 58.33%;
+    }
+    .w-s-8{
+        width: 66.66%;
+    }
+    .w-s-9{
+        width: 75%;
+    }
+    .w-s-10{
+        width: 83.33%;
+    }
+    .w-s-11{
+        width: 91.66%;
+    }
+    .w-s-12{
+        width: 100%;
+    }
+    .py-s-80{
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+    .py-s-100{
+        padding-top: 100px;
+        padding-bottom: 100px;
+    }
+    .py-s-120{
+        padding-top: 120px;
+        padding-bottom: 120px;
+    }
+    .d-s-none{
+        display: none;
+    }
+    .banner .banner-content h1{
+        font-size: 30px;
+    }
+    .banner .banner-content h2{
+        font-size: 20px;
+    }
+    .f-offer{
+        margin-bottom: 50px;
+    }
+    .products .row{
+        padding: 0px 30px;
+    }
+    .clients .client img{
+        width: 25%;
+    }
+    .updates .content-input .btn{
+        margin-top: 10px;
+    }
+    .updates .content-input .input-feild{
+        margin-right: 0px;
+    }
+    .contect-content{
+        padding-bottom: 50px;
+        padding-top: 50px;
+    }
+    .asset-tools .tool{
+        height: 280px;
+    }
+}
+@media (min-width:768px){
+    .container{
+        width:720px;
+    }
+    .w-m-1{
+        width: 8.33%;
+    }
+    .w-m-2{
+        width: 16.66%;
+    }
+    .w-m-3{
+        width: 25%;
+    }
+    .w-m-4{
+        width: 33.33%;
+    }
+    .w-m-5{
+        width: 41.66%;
+    }
+    .w-m-6{
+        width: 50%;
+    }
+    .w-m-7{
+        width: 58.33%;
+    }
+    .w-m-8{
+        width: 66.66%;
+    }
+    .w-m-9{
+        width: 75%;
+    }
+    .w-m-10{
+        width: 83.33%;
+    }
+    .w-m-11{
+        width: 91.66%;
+    }
+    .w-m-12{
+        width: 100%;
+    }
+    .py-m-80{
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+    .py-m-100{
+        padding-top: 100px;
+        padding-bottom: 100px;
+    }
+    .py-m-120{
+        padding-top: 120px;
+        padding-bottom: 120px;
+    }
+    .py-m-0{
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+    .d-m-none{
+        display: none;
+    }
+    .d-m-block{
+        display: block;
+    }
+    .products .row{
+        padding: 0px;
+    }
+    .clients .client img{
+        width: 50%;
+    }
+}
+@media (min-width:992px){
+    .container{
+        width:960px;  
+    }
+    .w-l-1{
+        width: 8.33%;
+    }
+    .w-l-2{
+        width: 16.66%;
+    }
+    .w-l-3{
+        width: 25%;
+    }
+    .w-l-4{
+        width: 33.33%;
+    }
+    .w-l-5{
+        width: 41.66%;
+    }
+    .w-l-6{
+        width: 50%;
+    }
+    .w-l-7{
+        width: 58.33%;
+    }
+    .w-l-8{
+        width: 66.66%;
+    }
+    .w-l-9{
+        width: 75%;
+    }
+    .w-l-10{
+        width: 83.33%;
+    }
+    .w-l-11{
+        width: 91.66%;
+    }
+    .w-l-12{
+        width: 100%;
+    }
+    .py-l-80{
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+    .py-l-100{
+        padding-top: 100px;
+        padding-bottom: 100px;
+    }
+    .py-l-120{
+        padding-top: 120px;
+        padding-bottom: 120px;
+    }
+    .d-l-none{
+        display: none;
+    }
+    .d-l-block{
+        display: block;
+    }
+    .banner .banner-content h1{
+        font-size: 52px;
+    }
+    .banner .banner-content h2{
+        font-size: 25px;
+    }
+    .f-offer{
+        margin-bottom: 0px;
+    }
+    .blogs .b-img{
+        height: 275px;
+    }
+    .justify-content-l-between{
+        justify-content: space-between;
+    }
+    .justify-content-l-start{
+        justify-content: flex-start;
+    }
+    .updates .heading h2{
+        text-align: left;
+    }
+    .updates .content-input .input-feild{
+        padding: 18px 0px 18px 30px;
+    }
+}
+@media (min-width:1200px){
+    .container{
+        width:1140px;
+    }
+    .w-xl-1{
+        width: 8.33%;
+    }
+    .w-xl-2{
+        width: 16.66%;
+    }
+    .w-xl-3{
+        width: 25%;
+    }
+    .w-xl-4{
+        width: 33.33%;
+    }
+    .w-xl-5{
+        width: 41.66%;
+    }
+    .w-xl-6{
+        width: 50%;
+    }
+    .w-xl-7{
+        width: 58.33%;
+    }
+    .w-xl-8{
+        width: 66.66%;
+    }
+    .w-xl-9{
+        width: 75%;
+    }
+    .w-xl-10{
+        width: 83.33%;
+    }
+    .w-xl-11{
+        width: 91.66%;
+    }
+    .w-xl-12{
+        width: 100%;
+    }
+    .py-xl-80{
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+    .py-xl-100{
+        padding-top: 100px;
+        padding-bottom: 100px;
+    }
+    .py-xl-120{
+        padding-top: 120px;
+        padding-bottom: 120px;
+    }
+    .d-xl-none{
+        display: none;
+    }
+    .d-xl-block{
+        display: block;
+    }
+    .justify-content-xl-between{
+        justify-content: space-between;
+    }
+    .f-offer{
+        padding-right: 15px;
+    }
+    .s-offer{
+        padding-left: 15px;
+    }
+    .asset-tools .tool{
+        height: 350px;
+    }
+    .asset-tools .col1 .tool{
+        height: 100%;
+    }
+}
+@media (min-width:1400px){
+    .container{
+        width:1320px;
+    }
+    .w-xxl-1{
+        width: 8.33%;
+    }
+    .w-xxl-2{
+        width: 16.66%;
+    }
+    .w-xxl-3{
+        width: 25%;
+    }
+    .w-xxl-4{
+        width: 33.33%;
+    }
+    .w-xxl-5{
+        width: 41.66%;
+    }
+    .w-xxl-6{
+        width: 50%;
+    }
+    .w-xxl-7{
+        width: 58.33%;
+    }
+    .w-xxl-8{
+        width: 66.66%;
+    }
+    .w-xxl-9{
+        width: 75%;
+    }
+    .w-xxl-10{
+        width: 83.33%;
+    }
+    .w-xxl-11{
+        width: 91.66%;
+    }
+    .w-xxl-12{
+        width: 100%;
+    }
+    .py-xxl-80{
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+    .py-xxl-100{
+        padding-top: 100px;
+        padding-bottom: 100px;
+    }
+    .py-xxl-120{
+        padding-top: 120px;
+        padding-bottom: 120px;
+    }
+    .d-xxl-block{
+        display: block;
+    }
+}
